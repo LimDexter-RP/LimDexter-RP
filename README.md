@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LimDexter-RP
-- 👀 I’m interested in boxing, java coding, HTML coding and learning
-- 🌱 I’m currently learning how to make android apps, HTML websites, UI/UX designs
+- 👀 I’m interested in boxing, java coding, HTML coding and learning in general.
+- 🌱 I’m currently learning how to make android apps, HTML websites, UI/UX designs.
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...
 
